@@ -47,12 +47,13 @@ Currently pursuing my Master's in **Analytics** at **Northeastern University**, 
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 | Project | Focus | Description |
 |--------|-------|-------------|
 | 💓 [Heart Disease Prediction](https://github.com/Meghanayalam/Heart-disease-prediction) | **Analytics + ML** | Full ML pipeline including EDA, preprocessing, model training, and evaluation. |
 | 🧠 [Speaksight - Image Captioning](https://github.com/Meghanayalam/Speaksight) | **Deep Learning** | Image-to-text generation using CNN + LSTM + attention mechanism. |
-| 🫁 [Chest X-ray Segmentation](https://github.com/Meghanayalam/Chest-Xray-Segmentation) | **Medical AI** | Semantic segmentation of lungs in chest X-rays using a custom ResUNet. |
-| 📊 [Loan Approval Classifier](https://github.com/Meghanayalam) | **Data Science** | Predictive modeling with fairness and explainability for financial decisions. |
+| 🤖 [Structured Assistant](https://github.com/Meghanayalam/structured_assistant) | **AI Backend** | FastAPI-based assistant framework with modular memory and task handling — a great base for building intelligent agents. |
 | 🔄 *More Coming Soon...* | **Multimodal & Generative AI** | In progress — expanding into LLMs, data engineering workflows, and applied AI systems. |
 
 ---
