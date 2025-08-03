@@ -17,7 +17,7 @@ Currently pursuing my Master's in **Analytics** at **Northeastern University**, 
 
 📘 My academic journey started with a **Bachelor of Science in Mathematics, Computer Science, and Statistics**. During my undergraduate studies, I was **shortlisted for the final round of the Jignasa Student Study Projects** by the Government of Telangana. Our project focused on simplifying math using tech-driven, intuitive learning approaches — a rewarding experience that strengthened my empathy and love for applied AI in education.  
 
-💼 After graduation, I worked for **2 years as an ML Associate**, building machine learning pipelines, deploying models, and solving practical problems with data-driven insights.  
+💼 After under graduation, I worked for **2 years as an ML Associate**, building machine learning pipelines, deploying models, and solving practical problems with data-driven insights.  
 
 🧠 My current areas of interest include:
 - Deep Learning & Computer Vision  
