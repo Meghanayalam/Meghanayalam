@@ -51,13 +51,7 @@ With a background as an ML Associate, I bring hands-on experience in developing 
   </table>
 </div>
 
----
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Meghanayalam&show_icons=true&theme=radical" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghanayalam&layout=compact&theme=radical" height="180"/>
-</p>
 
 ---
 
