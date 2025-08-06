@@ -17,8 +17,6 @@ Currently pursuing my Master's in *Analytics* at *Northeastern University*, with
 
 📘 My academic journey started with a *Bachelor of Science in Mathematics, Computer Science, and Statistics*. During my undergraduate studies, I was **shortlisted for the final round of the Jignasa Student Study Projects** by the Government of Telangana. Our project focused on simplifying math using tech‑driven, intuitive learning approaches — a rewarding experience that strengthened my empathy and love for applied AI in education.
 
-💼 After under graduation, I worked for *2 years as an ML Associate*, building machine learning pipelines, deploying models, and solving practical problems with data‑driven insights.
-
 ---
 ## 🛠️ Technical Toolbox
 
@@ -91,6 +89,7 @@ Currently pursuing my Master's in *Analytics* at *Northeastern University*, with
 • Seasonal Auto‑Regressive Integrated Moving Averages (SARIMA) Model  
 
 ---
+## 🌟 About Me
 💼 **Professional Experience**:
 
 - **Virtusa, Hyderabad – India**: Machine Learning Associate  
@@ -103,10 +102,10 @@ Currently pursuing my Master's in *Analytics* at *Northeastern University*, with
 
 - **Master of Science in Analytics (Applied Machine Intelligence)**  
   - Northeastern University, Boston, MA (Expected: May 2027)  
-  - GPA: 3.80/4.00  
+  - GPA: 4.0/4.0 
 
 - **Bachelor’s Degree in Computer Science (Maths, Statistics, CS)**  
-  - Govt. Women’s Degree College, India (2021)  
+  - Govt. Women’s Degree College, India (2022)  
   - Finalist – *Jignasa Project (Govt. of Telangana)*
 -----
 💡 **What I Do**
