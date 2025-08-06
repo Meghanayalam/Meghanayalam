@@ -20,46 +20,53 @@ Currently pursuing my Master's in *Analytics* at *Northeastern University*, with
 💼 After under graduation, I worked for *2 years as an ML Associate*, building machine learning pipelines, deploying models, and solving practical problems with data‑driven insights.
 
 ---
+## 🛠️ Technical Toolbox
 
-### 🛠 **Tech Stack & Skills**
+### 👩‍💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL-336791?logo=oracle&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square"/>
+</p>
 
-#### **Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-336791?style=for-the-badge&logo=oracle&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### 🧪 Libraries & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Matplotlib-008080?logo=python&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Seaborn-008080?logo=python&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/LIME-FF4081?logo=python&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/SHAP-FF4500?logo=python&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=flat-square"/>
+</p>
 
-#### **Libraries and Frameworks**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Scikit‑Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=python&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=python&logoColor=white)  
-![LIME](https://img.shields.io/badge/LIME-FF4081?style=for-the-badge&logo=python&logoColor=white)  
-![SHAP](https://img.shields.io/badge/SHAP-FF4500?style=for-the-badge&logo=python&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+### 📚 Methodologies
+- Agile • SDLC • Product Management
 
-#### **Methodologies**  
-- Agile, SDLC, Product Management
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/BitBucket-0052CC?logo=bitbucket&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Tortoise_SVN-80B3FF?logo=subversion&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-47A248?logo=githubactions&logoColor=white&style=flat-square"/>
+</p>
 
-#### **Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![BitBucket](https://img.shields.io/badge/BitBucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)  
-![Tortoise SVN](https://img.shields.io/badge/Tortoise_SVN-80B3FF?style=for-the-badge&logo=subversion&logoColor=white)  
-![Google Cloud Platform](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
-![CI/CD](https://img.shields.io/badge/CI%2FCD-47A248?style=for-the-badge&logo=githubactions&logoColor=white)
+
+
+----
 
 #### **Soft Skills**  
 - Problem‑Solving, Collaboration, Communication, Leadership
-
----
 
 🔭 I've used different Machine Learning and Deep Learning models in real‑time projects. Below are some used models:  
 • Linear Regression  
