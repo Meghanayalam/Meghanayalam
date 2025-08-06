@@ -91,7 +91,24 @@ Currently pursuing my Master's in *Analytics* at *Northeastern University*, with
 • Seasonal Auto‑Regressive Integrated Moving Averages (SARIMA) Model  
 
 ---
+💼 **Professional Experience**:
 
+- **Virtusa, Hyderabad – India**: Machine Learning Associate  
+  - Built multilingual semantic search systems using sentence-BERT embeddings to enhance access to domain-specific knowledge.  
+  - Developed GPT-powered internal assistants using RAG pipelines for policy search and document summarization.  
+  - Created an Explainable AI toolkit using SHAP, PDP, and counterfactual techniques for model transparency in finance.  
+  - Designed and deployed structured assistant chatbots with LangChain, FAISS, and custom embedding retrieval.  
+
+🎓 **Education**:
+
+- **Master of Science in Analytics (Applied Machine Intelligence)**  
+  - Northeastern University, Boston, MA (Expected: May 2027)  
+  - GPA: 3.80/4.00  
+
+- **Bachelor’s Degree in Computer Science (Maths, Statistics, CS)**  
+  - Govt. Women’s Degree College, India (2021)  
+  - Finalist – *Jignasa Project (Govt. of Telangana)*
+-----
 💡 **What I Do**
 
 🔹 Machine Learning & AI 🤖 – Designing and deploying predictive models.  
