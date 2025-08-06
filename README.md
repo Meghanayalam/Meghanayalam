@@ -1,118 +1,133 @@
-<h1 align="center">Hi, I'm Meghana Yalam 👋</h1>
+<h1 align="center">Hi, I'm Meghana 👋</h1>
 
-**🚀 ML Engineer | Data Scientist | AI Researcher | Cloud Enthusiast**  
-🎓 Master's in **Analytics – Applied Machine Intelligence** @ Northeastern University  
+<p align="center">
+  🎓 MS Analytics @ Northeastern University (Applied Machine Intelligence)<br>
+  💼 Former ML Associate • Aspiring ML Engineer | AI Researcher | Data Scientist | Data Engineer<br>
+  🌐 <a href="https://github.com/Meghanayalam">GitHub</a> • 
+  <a href="https://www.linkedin.com/in/meghanayalam">LinkedIn</a> • 
+  <a href="mailto:yalammeghana@gmail.com">Email</a>
+</p>
 
-📌 Driven by curiosity, innovation, and a passion to turn data into intelligent systems.
+---
+
+## 💡 About Me
+
+I'm a passionate Machine Learning enthusiast with a knack for solving real-world problems using data.  
+Currently pursuing my Master's in *Analytics* at *Northeastern University*, with a specialization in **Applied Machine Intelligence**.
+
+📘 My academic journey started with a *Bachelor of Science in Mathematics, Computer Science, and Statistics*. During my undergraduate studies, I was **shortlisted for the final round of the Jignasa Student Study Projects** by the Government of Telangana. Our project focused on simplifying math using tech‑driven, intuitive learning approaches — a rewarding experience that strengthened my empathy and love for applied AI in education.
+
+💼 After under graduation, I worked for *2 years as an ML Associate*, building machine learning pipelines, deploying models, and solving practical problems with data‑driven insights.
 
 ---
 
 ### 🛠 **Tech Stack & Skills**
 
 #### **Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-336791?style=for-the-badge&logo=oracle&logoColor=white)  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 #### **Libraries and Frameworks**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Scikit‑Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=python&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=python&logoColor=white)  
+![LIME](https://img.shields.io/badge/LIME-FF4081?style=for-the-badge&logo=python&logoColor=white)  
+![SHAP](https://img.shields.io/badge/SHAP-FF4500?style=for-the-badge&logo=python&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 #### **Methodologies**  
-- End-to-End ML Lifecycle, Agile SDLC, Research-to-Prototype Pipelines
+- Agile, SDLC, Product Management
 
 #### **Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![BitBucket](https://img.shields.io/badge/BitBucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)  
+![Tortoise SVN](https://img.shields.io/badge/Tortoise_SVN-80B3FF?style=for-the-badge&logo=subversion&logoColor=white)  
+![Google Cloud Platform](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/CI%2FCD-47A248?style=for-the-badge&logo=githubactions&logoColor=white)
 
 #### **Soft Skills**  
-- Critical Thinking, Team Collaboration, Fast Learning, Effective Communication
+- Problem‑Solving, Collaboration, Communication, Leadership
+
+---
+
+🔭 I've used different Machine Learning and Deep Learning models in real‑time projects. Below are some used models:  
+• Linear Regression  
+• Logistic Regression  
+• Support Vector Machines (SVM)  
+• Decision Trees (DT)  
+• Random Forests (RF)  
+• K‑Nearest Neighbors (KNN)  
+• Deep Neural Networks  
+• Convolutional Neural Networks (CNN)  
+• Recurrent Neural Networks (RNN)  
+• Naive Bayes (NB)  
+• Gradient Boosted Decision Trees (GBDT)  
+• XGBoost  
+• Long Short‑Term Memory (LSTM)
+
+🔭 Below are some state‑of‑the‑art (SOTA) time series forecasting models used in various real‑time projects:  
+• Auto‑Regressive (AR) Model  
+• Auto‑Regressive Moving Averages (ARMA) Model  
+• Auto‑Regressive Integrated Moving Averages (ARIMA) Model  
+• Neural Hierarchical Interpolation of Time Series (N‑HiTS) Model  
+• Seasonal Auto‑Regressive Integrated Moving Averages (SARIMA) Model  
 
 ---
 
 💡 **What I Do**
 
-🔹 **Applied Machine Learning** – Develop predictive pipelines with real-world deployment  
-🔹 **Computer Vision & Deep Learning** – Build robust vision models with CNNs, RNNs, LSTMs  
-🔹 **Generative AI & NLP** – Train captioning models and structured agents  
-🔹 **Model Evaluation & Interpretation** – Prioritize transparency using SHAP/LIME  
-🔹 **Cloud-Based AI Systems** – Streamlit apps + REST APIs on AWS  
+🔹 Machine Learning & AI 🤖 – Designing and deploying predictive models.  
+🔹 Natural Language Processing (NLP) 🗣️ – Building LLM‑powered applications, text classification, and sentiment analysis.  
+🔹 Deep Learning & Computer Vision 🖼️ – Image processing, object detection, and generative AI.  
+🔹 MLOps & Model Deployment ☁️ – Scaling AI applications using AWS | GCP | Docker | Kubernetes.
 
 ---
 
 🎯 **Why You Should Work With Me**
 
-✅ I combine strong statistical intuition with solid engineering practices.  
-✅ Hands-on experience with full-cycle AI development – from data wrangling to interactive dashboards.  
-✅ Passionate about research-backed solutions, open-source development & impactful applications.  
-✅ Excellent at breaking down complex problems into modular and scalable codebases.
+✅ Expertise in end‑to‑end ML development – from data wrangling to model deployment.  
+✅ Proficient in Python, TensorFlow, PyTorch, and Scikit‑learn.  
+✅ Strong software engineering mindset – writing optimized, scalable, and production‑ready ML code.  
+✅ Passionate about AI research, open‑source contributions, and continuous learning.
 
 ---
 
-## 🌟 About Me
+## 🚀 Featured Projects
 
-💼 **Professional Experience**  
-- **ML Associate (2 Years)** – Developed and deployed production ML models  
-- Engineered **image captioning systems**, interpretable visual classifiers & multimodal projects  
-- Built **FastAPI-based assistants** for intelligent interaction and structured memory systems  
-- Created **data dashboards and visualizations** to drive insights for healthcare and educational data  
-
-🎓 **Education**  
-- **MS in Analytics (Applied Machine Intelligence)** – Northeastern University  
-- **B.Sc. in Mathematics, Computer Science & Statistics**  
-  - Finalist – Jignasa Student Study Projects (Govt. of Telangana)  
-  - Developed tech tools to simplify mathematical learning for rural students
+| Project | Focus | Description |
+|--------|-------|-------------|
+| 💓 [Heart Disease Prediction](https://github.com/Meghanayalam/Heart-disease-prediction) | *Analytics + ML* | Full ML pipeline including EDA, preprocessing, model training, and evaluation. |
+| 🧠 [Speaksight – Image Captioning](https://github.com/Meghanayalam/Speaksight) | *Deep Learning* | Image‑to‑text generation using CNN + LSTM + attention mechanism. |
+| 🤖 [Structured Assistant](https://github.com/Meghanayalam/structured_assistant) | *AI Backend* | FastAPI‑based assistant framework with modular memory and task handling — a great base for building intelligent agents. |
+| 🔄 More Coming Soon... | *Multimodal & Generative AI* | In progress — expanding into LLMs, data engineering workflows, and applied AI systems. |
 
 ---
-
-## 🚀 Projects Showcase
-
-- [💬 Speaksight – Image Captioning](https://github.com/Meghanayalam/Speaksight)  
-  CNN + LSTM-based system generating captions from images using attention-based decoding.
-
-- [🧠 Structured Assistant](https://github.com/Meghanayalam/structured_assistant)  
-  Modular AI backend framework using FastAPI to power intelligent agents.
-
-- [💓 Heart Disease Prediction](https://github.com/Meghanayalam/Heart-disease-prediction)  
-  Built a predictive ML pipeline for cardiovascular risk analysis with Streamlit deployment.
-
-
 
 ## 🌱 Currently Exploring
-
-- 💡 Streamlined LLM applications with Retrieval-Augmented Generation (RAG)  
-- ⚙️ Airflow-based orchestration of end-to-end ML workflows  
-- 🤝 Human-Centered AI with explainability and fairness  
-- 🌐 Scalable API integrations for real-time AI systems
+- Advanced techniques in Generative AI and Transformer models.  
+- Practical applications of NLP and deployment of AI‑driven systems.  
+- Scalable machine learning pipelines and cloud‑based AI services.
 
 ---
 
 ## 🤝 Let’s Connect
-
 - 🌐 [GitHub](https://github.com/Meghanayalam)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/meghanayalam)  
 - 📬 [Email](mailto:yalammeghana@gmail.com)
 
----
+***🚀 Let’s Build AI That Matters!***
 
-<p align="center">
-  🚀 <b>Open to full-time roles and internships in AI • ML • Data Science • Research</b>  
-</p>
-
-<p align="center">
-  📊 <i>Always eager to collaborate, share ideas, and build intelligent systems that create real impact!</i>
-</p>
+I am always eager to collaborate on meaningful projects, solve challenging problems, and deliver data‑driven solutions that make a difference. Let’s connect and innovate together!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Meghanayalam&color=blue&style=flat)
-
