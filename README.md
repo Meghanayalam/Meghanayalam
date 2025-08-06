@@ -45,7 +45,7 @@ Currently pursuing my Master's in **Analytics** at **Northeastern University**, 
 
 ---
 
-## 🚀 Featured Projects
+
 
 ## 🚀 Featured Projects
 
